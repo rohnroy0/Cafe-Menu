@@ -33,11 +33,9 @@ A simple and clean **Cafe Menu** webpage built using **HTML** and **CSS**. This 
 
 ## 📸 Preview
 
-*(After uploading a screenshot, update this path)*
+![Cafe Menu Preview](https://github.com/rohnroy0/Cafe-Menu/blob/main/preview03.png?raw=true)
 
-```markdown
-![Cafe Menu Preview](https://github.com/rohnroy0/Cafe-Menu/raw/main/screenshot.png)
-
+---
 
 ## 🚀 How to Run
 
