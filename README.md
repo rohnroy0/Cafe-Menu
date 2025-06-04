@@ -41,4 +41,4 @@ A simple and clean **Cafe Menu** webpage built using **HTML** and **CSS**. This 
 
 1. Clone this repository:
    ```bash
-git clone https://github.com/rohnroy0/Cafe-Menu.git
+   git clone https://github.com/rohnroy0/Cafe-Menu.git
